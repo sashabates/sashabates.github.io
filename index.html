@@ -13,31 +13,51 @@
             }
             h4 {
                 color: ghostwhite;
-                font: semi-expanded;
             }
-            #introduction {
-                background-image: url("red-painting-1950-1.jpg")
+            #container {
+                height: 400px;
+                width: 400px;
+                position: relative;
+            }
+            #image1 {
+                position: absolute;
+                left: 0;
+                top: 0;
+            }
+            #text1 {
+                z-index: 100;
+                position: absolute;
+                color: white;
+                font-size: 24px;
+                font-weight: bold;
+                left: 150px;
+                top: 350px;
             }
             #sasha {
                 margin-left: auto;
             }
             #commonwealth {
-                margin-right: auto
+                margin-right: auto;
             }
             #commonwealth2 {
-                margin-left: auto
+                margin-left: auto;
+                width: 20%
             }
             body {
-
+                color: darkgrey;
+                font: semi-expanded;
             }
         </style>
     </head>
 
     <body>
-       <div id="introduction">
-            <h1>Sasha Bates</h1>
-             <h4>Commonwealth Student</h4>
-       </div>
+    <div id="container">
+        <img id="image1" src="red-painting-1950-1.jpg" />
+        <p id="text1">
+            Sasha Bates
+            Commonwealth Student
+        </p>
+    </div>
         <div>
             <img id="sasha" src="IMG_5627.textClipping">
             <h3>About Me</h3>
