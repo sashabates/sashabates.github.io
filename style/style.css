@@ -1,1 +1,71 @@
-
+.heading {
+    height: 1000px;
+    width: 2400px;
+    position: relative;
+}
+#image1 {
+    height: 1000px;
+    width: 2400px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 1
+}
+#text1 {
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Gill Sans", "Arial", sans-serif;
+    left: 1200px;
+    top: 470px;
+    z-index: 2;
+}
+#text2 {
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: "Gill Sans", "Arial", sans-serif;
+    left: 1200px;
+    top: 530px;
+    z-index: 2;
+}
+.sasha {
+    margin: auto;
+    height: 150px;
+    width: 1600px;
+}
+#image2 {
+    margin-right: auto;
+    height: 150px;
+    width: 150px;
+}
+.comm1 {
+    margin: auto;
+    height: 150px;
+    width: 1600px;
+}
+#image3 {
+    margin-left: auto;
+    height: 150px;
+    width: 150px;
+}
+.comm2 {
+    margin: auto;
+    height: 150px;
+    width: 1600px;
+}
+#image4 {
+    margin-right: auto;
+    height: 150px;
+    width: 150px;
+}
+h3 {
+    color: darkgrey;
+    font-family: "Gill Sans", "Arial", sans-serif
+}
+p {
+    color: darkgrey;
+    font-family: "Gill Sans", "Arial", sans-serif
+}
