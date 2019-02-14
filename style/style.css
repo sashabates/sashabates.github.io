@@ -13,6 +13,7 @@ body #text1 {
     font-family: "Gill Sans", "Arial", sans-serif;
     text-align: center;
     top: 400px;
+    padding: 10px;
 }
 
 body #text2 {
@@ -23,6 +24,7 @@ body #text2 {
     font-family: "Gill Sans", "Arial", sans-serif;
     text-align: center;
     top: 450px;
+    padding: 10px;
 }
 
 body .sasha {
