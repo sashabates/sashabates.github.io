@@ -28,7 +28,6 @@ body #text2 {
 body .sasha {
     height: 150px;
     width: 70%;
-    float: center;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 3em;
@@ -37,13 +36,11 @@ body .sasha {
 body #image2 {
     float: left;
     height: 150px;
-    width: 150px;
 }
 
 body .comm1 {
     height: 150px;
     width: 70%;
-    float: center;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 3em;
@@ -52,13 +49,11 @@ body .comm1 {
 body #image3 {
     float: right;
     height: 150px;
-    width: 150px;
 }
 
 body .comm2 {
     height: 150px;
     width: 70%;
-    float: center;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 3em;
@@ -67,7 +62,6 @@ body .comm2 {
 body #image4 {
     float: left;
     height: 150px;
-    width: 150px;
 }
 
 body {
