@@ -29,6 +29,7 @@ body .sasha {
     margin: auto;
     height: 150px;
     width: 800px;
+    padding: 10px;
 }
 
 body #image2 {
@@ -41,6 +42,7 @@ body .comm1 {
     margin: auto;
     height: 150px;
     width: 800px;
+    padding: 10px;
 }
 
 body #image3 {
@@ -53,6 +55,7 @@ body .comm2 {
     margin: auto;
     height: 150px;
     width: 800px;
+    padding: 10px;
 }
 
 body #image4 {
