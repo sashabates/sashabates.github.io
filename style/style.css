@@ -26,10 +26,9 @@ body #text2 {
 }
 
 body .sasha {
-    margin: auto;
     height: 150px;
     width: 800px;
-    padding: 10px;
+    padding: 20px;
 }
 
 body #image2 {
@@ -39,10 +38,9 @@ body #image2 {
 }
 
 body .comm1 {
-    margin: auto;
     height: 150px;
     width: 800px;
-    padding: 10px;
+    padding: 20px;
 }
 
 body #image3 {
@@ -52,10 +50,9 @@ body #image3 {
 }
 
 body .comm2 {
-    margin: auto;
     height: 150px;
     width: 800px;
-    padding: 10px;
+    padding: 20px;
 }
 
 body #image4 {
