@@ -2,17 +2,10 @@
     height: 800px;
     width: 1200px;
     position: relative;
-}
-#image1 {
-    height: 800px;
-    width: 1200px;
-    position: absolute;
-    left: 0;
-    top: 0;
-    z-index: 1
+    background-image: url("red-painting-1950-1.jpg");
 }
 #text1 {
-    text-align: center;
+    position: absolute;
     color: white;
     font-size: 24px;
     font-weight: bold;
