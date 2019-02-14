@@ -28,7 +28,7 @@ body #text2 {
 body .sasha {
     height: 150px;
     width: 800px;
-    margin-bottom: 30px;
+    margin-bottom: 3em;
 }
 
 body #image2 {
@@ -40,7 +40,7 @@ body #image2 {
 body .comm1 {
     height: 150px;
     width: 800px;
-    margin-bottom: 30px;
+    margin-bottom: 3em;
 }
 
 body #image3 {
@@ -52,7 +52,7 @@ body #image3 {
 body .comm2 {
     height: 150px;
     width: 800px;
-    margin-bottom: 30px;
+    margin-bottom: 3em;
 }
 
 body #image4 {
