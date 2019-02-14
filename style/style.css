@@ -38,7 +38,7 @@ body .sasha {
 body #image2 {
     float: left;
     height: 150px;
-    padding: 10px;
+    padding: 10px 10px 10px 10 px;
 }
 
 body .comm1 {
@@ -52,7 +52,7 @@ body .comm1 {
 body #image3 {
     float: right;
     height: 150px;
-    padding: 10px;
+    padding: 10px 10px 10px 10 px;
 }
 
 body .comm2 {
@@ -66,7 +66,7 @@ body .comm2 {
 body #image4 {
     float: left;
     height: 150px;
-    padding: 10px;
+    padding: 10px 10px 10px 10 px;
 }
 
 body {
