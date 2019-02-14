@@ -1,10 +1,11 @@
-.heading {
+body .heading {
     height: 800px;
     width: 1200px;
     position: relative;
     background-image: url("red-painting-1950-1.jpg");
 }
-#text1 {
+
+body #text1 {
     position: absolute;
     color: white;
     font-size: 24px;
@@ -13,7 +14,8 @@
     left: 600px;
     z-index: 2;
 }
-#text2 {
+
+body #text2 {
     position: absolute;
     color: white;
     font-size: 16px;
@@ -23,41 +25,44 @@
     top: 430px;
     z-index: 2;
 }
-.sasha {
+
+body .sasha {
     margin: auto;
     height: 150px;
     width: 800px;
 }
-#image2 {
+
+body #image2 {
     float: left;
     height: 150px;
     width: 150px;
 }
-.comm1 {
+
+body .comm1 {
     margin: auto;
     height: 150px;
     width: 800px;
 }
-#image3 {
+
+body #image3 {
     float: right;
     height: 150px;
     width: 150px;
 }
-.comm2 {
+
+body .comm2 {
     margin: auto;
     height: 150px;
     width: 800px;
 }
-#image4 {
+
+body #image4 {
     float: left;
     height: 150px;
     width: 150px;
 }
-h3 {
-    color: darkgrey;
-    font-family: "Gill Sans", "Arial", sans-serif
-}
-p {
+
+body {
     color: darkgrey;
     font-family: "Gill Sans", "Arial", sans-serif
 }
