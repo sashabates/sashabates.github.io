@@ -6,7 +6,7 @@ body .heading {
 }
 
 body #text1 {
-    position: absolute;
+    position: relative;
     color: white;
     font-size: 30px;
     font-weight: bold;
@@ -17,7 +17,7 @@ body #text1 {
 }
 
 body #text2 {
-    position: absolute;
+    position: relative;
     color: white;
     font-size: 16px;
     font-weight: normal;
