@@ -11,8 +11,7 @@ body #text1 {
     font-size: 30px;
     font-weight: bold;
     font-family: "Gill Sans", "Arial", sans-serif;
-    left: 50%;
-    z-index: 2;
+    text-align: center;
 }
 
 body #text2 {
@@ -21,8 +20,7 @@ body #text2 {
     font-size: 16px;
     font-weight: normal;
     font-family: "Gill Sans", "Arial", sans-serif;
-    left: 50%;
-    z-index: 2;
+    text-align: center;
 }
 
 body .sasha {
