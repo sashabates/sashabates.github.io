@@ -1,6 +1,6 @@
 body .heading {
-    height: 800px;
-    width: 1200px;
+    height: 600px;
+    width: 100%;
     position: relative;
     background-image: url("red-painting-1950-1.jpg");
 }
@@ -8,10 +8,10 @@ body .heading {
 body #text1 {
     position: absolute;
     color: white;
-    font-size: 24px;
+    font-size: 30px;
     font-weight: bold;
     font-family: "Gill Sans", "Arial", sans-serif;
-    left: 600px;
+    left: 50%;
     z-index: 2;
 }
 
@@ -21,8 +21,7 @@ body #text2 {
     font-size: 16px;
     font-weight: normal;
     font-family: "Gill Sans", "Arial", sans-serif;
-    left: 600px;
-    top: 430px;
+    left: 50%;
     z-index: 2;
 }
 
